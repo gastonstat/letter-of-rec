@@ -3,10 +3,10 @@
 You should know upfront that most of the time I decline writing letters of 
 recommendation. My two main reasons for doing this are:
 
-1) I don't know you enough: I haven't known you long enough to get an 
+1) __I don't know you enough__: I haven't known you long enough to get an 
 accurate idea of your qualifications and skills to endorse you.
 
-2) I don't have time: I'm already too busy with my teaching responsibilities, 
+2) __I don't have time__: I'm already too busy with my teaching responsibilities, 
 and with my personal life outside academia.
 
 With that said, you can come to my OH, and if I'm not busy helping other
