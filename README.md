@@ -35,12 +35,30 @@ Is it because of:
 
 
 
+### Have you done Due Diligence regarding the program you are interested in?
+
+- Have you carefully look at the program you are interested in?
+	+ Is it a fairly new program or a well established program?
+	+ Is there any data about the reputation of the program?
+- What is the focus of the program?
+	+ Is it very practical?
+	+ Is it very theoretical?
+	+ Is it a mix of theory and practice?
+- Have you looked at the faculty members of the program?
+	+ What are their areas of expertise?
+	+ Have you read some of their important papers?
+- Have you talked to students currently enrolled in the program?
+- Have you talked to alumni that graduated from the program?
+
+
+
 ### What is the expected professional future after grad school?
 
 - Do you know what kind of "typical" jobs are available after finishing grad school?
 - Do you know how hard/easy it is to find jobs after finishing grad school?
 - Have you talked to people making a living in that domain/discipline?
 	+ Have you asked them what would they do different if they were to start again?
+
 
 
 ### Have you considered postponing going to grad school?
