@@ -23,15 +23,16 @@ For example, we can talk about one or more of the following topics.
 
 Is it because of:
 
-- love and passion about a certain knowledge domain
-- career advancement
-- career change
-- peer pressure
-- family pressure
-- society pressure
-- cannot find job
-- pie-in-the-sky dream
-- don't have a clear idea of next step in life
+- love and passion about a certain knowledge domain?
+- career advancement?
+- career change?
+- peer pressure?
+- family pressure?
+- society pressure?
+- cannot find job?
+- pie-in-the-sky dream?
+- don't have a clear idea of next step in life?
+- none of the above (some other reason)?
 
 
 
