@@ -49,7 +49,7 @@ Is it because of:
 	+ What are their areas of expertise?
 	+ Have you read some of their important papers?
 - Have you talked to students currently enrolled in the program?
-- Have you talked to alumni that graduated from the program?
+- Have you talked to alumni of the program?
 - If you care about Diversity, Equity, Inclusion, Belonging, and Justice, have you seen if the program supports these? 
 
 
