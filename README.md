@@ -29,6 +29,7 @@ Is it because of:
 - peer pressure?
 - family pressure?
 - society pressure?
+- self imposed pressure?
 - cannot find job?
 - pie-in-the-sky dream?
 - don't have a clear idea of next step in life?
@@ -50,7 +51,7 @@ Is it because of:
 	+ Have you read some of their important papers?
 - Have you talked to students currently enrolled in the program?
 - Have you talked to alumni of the program?
-- If you care about Diversity, Equity, Inclusion, Belonging, and Justice, have you seen if the program supports these? 
+- If you care about Diversity, Equity, Inclusion, Belonging, and Justice, have you seen if the program supports these principles? 
 
 
 
@@ -68,12 +69,13 @@ Is it because of:
 - What is your opportunity cost for going to grad school?
 - Have you considered going to industry for a couple of years before applying to grad school?
 - Have you considered going to industry instead of grad school?
-- Have you considered taking some time off academia before going to grad school?
+- Have you considered taking some time off from academia before going to grad school?
 - Is this the best time for you to go to grad school?
 	+ Do you have other responsibilities?
 	+ Do you have other commitments?
-	+ Do you have other alternatives?	
+	+ Do you have other alternatives?
 	+ Do you have other options?
+	+ Do you have other dreams?
 
 
 
