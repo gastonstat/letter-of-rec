@@ -19,7 +19,7 @@ For example, we can talk about one or more of the following topics.
 
 
 
-### Why do you want to go to grad school?
+## Why do you want to go to grad school?
 
 Is it because of:
 
@@ -37,7 +37,7 @@ Is it because of:
 
 
 
-### Have you done Due Diligence regarding the program you are interested in?
+## Have you done Due Diligence regarding the program you are interested in?
 
 - Have you carefully look at the program you are interested in?
 	+ Is it a fairly new program or a well established program?
@@ -55,7 +55,7 @@ Is it because of:
 
 
 
-### What is the expected professional future after grad school?
+## What is the expected professional future after grad school?
 
 - Do you know what kind of "typical" jobs are available after finishing grad school?
 - Do you know how hard/easy it is to find jobs after finishing grad school?
@@ -64,7 +64,7 @@ Is it because of:
 
 
 
-### Have you considered postponing going to grad school?
+## Have you considered postponing going to grad school?
 
 - What is your opportunity cost for going to grad school?
 - Have you considered going to industry for a couple of years before applying to grad school?
@@ -79,7 +79,7 @@ Is it because of:
 
 
 
-### Do you have a plan B, C, D, ...?
+## Do you have a plan B, C, D, ...?
 
 Do you have a backup plan if:
 
@@ -89,7 +89,7 @@ Do you have a backup plan if:
 
 
 
-### Do you know how much is going to cost you?
+## Do you know how much is going to cost you?
 	
 How much---on average---are you going to pay (e.g. every week, every month, every semester, every year) for:
 
@@ -104,7 +104,7 @@ How much---on average---are you going to pay (e.g. every week, every month, ever
 
 
 
-### How are you going to cover the costs?
+## How are you going to cover the costs?
 
 - Will your family cover all the expenses?
 - Will your family cover some of the expenses?
