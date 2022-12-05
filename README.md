@@ -9,6 +9,16 @@ accurate idea of your qualifications and skills to endorse you.
 2) __I don't have time__: I'm already too busy with my teaching responsibilities, 
 and with my personal life outside academia.
 
+To consider the possibility of writing a letter, I use the following criteria:
+
+- I've known you for at least one year: I know your name, what your major is, 
+and ideally I also know a bit about you.
+- You took a 3-unit course with me (e.g. Stat 133, 151A, 154) and received a score in the 
+top 25th percentile.
+- You often came to my OH.
+- We have met periodically (or stayed in touch) after you took a course with me.
+
+
 With that said, you can come to my OH, and if I'm not busy helping other
 students, we can talk about your intentions, wishes and dreams for 
 going to grad school. While I may not help you with a letter-of-rec, 
