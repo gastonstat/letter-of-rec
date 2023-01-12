@@ -3,7 +3,7 @@
 You should know upfront that most of the time I decline writing letters of 
 recommendation. My two main reasons for doing this are:
 
-1) :grey_question: __I don't know you enough__: I haven't known you long enough to get an 
+1) :question: __I don't know you enough__: I haven't known you long enough to get an 
 accurate idea of your qualifications and skills to endorse you.
 
 2) :hourglass: __I don't have time__: I'm already too busy with my teaching responsibilities, 
