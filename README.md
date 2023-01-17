@@ -50,7 +50,7 @@ Is it because of:
 
 ## Have you done Due Diligence regarding the program you are interested in?
 
-- Have you carefully look at the program you are interested in?
+- Have you carefully looked at the program you are interested in?
 	+ Is it a fairly new program or a well established program?
 	+ Is there any data about the reputation of the program?
 - What is the focus of the program?
