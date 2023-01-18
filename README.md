@@ -12,7 +12,7 @@ and with my personal life outside academia.
 To consider the possibility of writing a letter, I use the following criteria:
 
 - I've known you for at least one year: I know your name, what your major is, 
-and ideally I also know a bit about you.
+and I also know a bit about you.
 - You took a 3-unit course with me (e.g. Stat 133, 151A, 154) and received a score in the 
 top 25th percentile.
 - You often came to my OH.
