@@ -1,6 +1,6 @@
 # So you want me to write you a letter of recommendation
 
-You should know upfront that most of the time I decline writing letters of 
+You should know upfront that 99.99% of the time I decline writing letters of 
 recommendation. My two main reasons for doing this are:
 
 1) :question: __I don't know you enough__: I haven't known you long enough to get an 
