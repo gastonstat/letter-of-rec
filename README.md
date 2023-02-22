@@ -123,7 +123,7 @@ How much---on average---are you going to pay (e.g. every week, every month, ever
 - Will you have to get student loans?
 	+ how much money should you borrow (in a financially prudent way)?
 	+ at what interest rate?
-	+ what the payment schedule could look like? Run an amortization calculator to get a rough idea
+	+ what the payment schedule could look like? Run an amortization calculator to get a rough idea.
 - Will you have to apply for scholarships, grants, funds?
 - Will you consider more affordable schools/programs?
 
