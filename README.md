@@ -69,7 +69,7 @@ Is it because of:
 ## What is the expected professional future after grad school?
 
 - Do you know what kind of "typical" jobs are available after finishing grad school?
-- Do you know how hard/easy it is to find jobs after finishing grad school?
+- Do you know how hard/easy is it to find jobs after finishing grad school?
 - Have you talked to people making a living in that domain/discipline?
 	+ Have you asked them what would they do different if they were to start again?
 
