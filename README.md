@@ -3,11 +3,11 @@
 You should know upfront that 99.99% of the time I decline writing letters of 
 recommendation. My two main reasons for doing this are:
 
-1) :question: __I don't know you enough__: I haven't known you long enough to get an 
-accurate idea of your qualifications and skills to endorse you.
-
-2) :hourglass: __I don't have time__: I'm already too busy with my teaching responsibilities, 
+1) :hourglass: __I don't have time__: I'm already too busy with my teaching responsibilities, 
 and with my personal life outside academia.
+
+2) :question: __I don't know you enough__: I haven't known you long enough to get an 
+accurate idea of your qualifications and skills to endorse you.
 
 To consider the possibility of writing a letter, I use the following criteria:
 
