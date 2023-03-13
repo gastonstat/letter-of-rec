@@ -1,4 +1,4 @@
-# So you want me to write you a letter of recommendation
+# So you want me to write you a letter of recommendation ...
 
 You should know upfront that 99% of the time I decline writing letters of 
 recommendation. My two main reasons for doing this are:
