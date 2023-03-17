@@ -15,7 +15,7 @@ Assuming that I have a bit of spare time, and that I know you enough, to conside
 and I also know a bit about you.
 - :100: You took a 3-unit course with me (e.g. Stat 133, 151A, 154) and received a score in the 
 top 25th percentile.
-- You often came to my OH.
+- :books: You often came to my OH.
 - We have met periodically (or stayed in touch) after you took a course with me.
 - We have developed a good collegial relationship.
 
