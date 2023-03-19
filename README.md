@@ -17,7 +17,7 @@ and I also know a bit about you.
 top 25th percentile.
 - :books: You often came to my OH.
 - :envelope: We have met periodically (or stayed in touch) after you took a course with me.
-- We have developed a good collegial relationship.
+- :mortar_board: We have developed a good collegial relationship.
 
 
 With that said, you can come to my OH, and if I'm not busy helping other
