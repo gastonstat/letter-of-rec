@@ -9,6 +9,8 @@ and with my personal life outside academia.
 2) :question: __I don't know you enough__: I haven't known you long enough to get an 
 accurate idea of your qualifications and skills to endorse you.
 
+<br>
+
 Assuming that I have a bit of spare time, and that I know you enough, to consider the possibility of writing a letter I use the following criteria:
 
 - :calendar: I've known you for at least one year: I know your name, what your major is, 
