@@ -37,6 +37,7 @@ For example, we can talk about one or more of the following topics.
 Is it because of:
 
 - love and passion about a certain knowledge domain?
+- genuine curiosity (but not passion) about a certain knowledge domain?
 - career advancement?
 - career change?
 - peer pressure?
