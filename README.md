@@ -60,6 +60,7 @@ Is it because of:
 	+ Is it very practical?
 	+ Is it very theoretical?
 	+ Is it a mix of theory and practice?
+- What are the requirements for the program?
 - Have you looked at the faculty members of the program?
 	+ What are their areas of expertise?
 	+ Have you read some of their important papers?
