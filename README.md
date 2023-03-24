@@ -60,6 +60,9 @@ Is it because of:
 	+ Is it very practical?
 	+ Is it very theoretical?
 	+ Is it a mix of theory and practice?
+	+ Is it tailored towards industry?
+	+ Is it tailored towards government?
+	+ Is it tailored towards research/academia?
 - What are the requirements for the program?
 - Have you looked at the faculty members of the program?
 	+ What are their areas of expertise?
