@@ -99,7 +99,7 @@ Is it because of:
 
 ## Do you have a plan B, C, D, ...?
 
-Do you have a backup plan if:
+You know the saying "_You plan, God laughs_." So, do you have a backup plan if:
 
 - you can't attend grad school?
 - you were to find that grad school is not for you?
