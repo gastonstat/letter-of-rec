@@ -103,7 +103,9 @@ Is it because of:
 You know the saying "_You plan, God laughs_." So, do you have a backup plan if:
 
 - you can't attend grad school?
-- you were to find that grad school is not for you?
+- you find that grad school is not for you?
+- you find that the program and/or school you chose don't meet your expectations?
+- you find that there is no chemistry between you and your advisor (assuming you are in a PhD program)?
 - you need or were forced to quit grad school?
 
 
