@@ -47,6 +47,7 @@ Is it because of:
 - cannot find job?
 - pie-in-the-sky dream?
 - don't have a clear idea of next step in life?
+- a mix of the above?
 - none of the above (some other reason)?
 
 
