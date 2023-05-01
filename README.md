@@ -106,8 +106,8 @@ You know the saying "_You plan, God laughs_." So, do you have a backup plan if:
 - you find that grad school is not for you?
 - you find that the program and/or school you chose don't meet your expectations?
 - you find that there is no chemistry between you and your advisor (assuming you are in a PhD program)?
+- you find an incredible (once in a lifetime) opportunity but it requires leaving grad school?
 - you need or were forced to quit grad school?
-
 
 
 ## Do you know how much is going to cost you?
