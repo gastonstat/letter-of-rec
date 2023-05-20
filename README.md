@@ -68,6 +68,7 @@ Is it because of:
 - Have you looked at the faculty members of the program?
 	+ What are their areas of expertise?
 	+ Have you read some of their important papers?
+- Is there a strong alumni network?
 - Have you talked to students currently enrolled in the program?
 - Have you talked to alumni of the program?
 - If you care about Diversity, Equity, Inclusion, Belonging, and Justice, have you seen if the program supports these values? 
