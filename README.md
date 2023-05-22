@@ -68,6 +68,7 @@ Is it because of:
 - Have you looked at the faculty members of the program?
 	+ What are their areas of expertise?
 	+ Have you read some of their important papers?
+	+ Do they have experience in industry?
 - Is there a strong alumni network?
 - Have you talked to students currently enrolled in the program?
 - Have you talked to alumni of the program?
