@@ -17,10 +17,14 @@ of writing a __strong letter of recommendation__ I use the following criteria:
 
 - :calendar: I've known you for at least one year: I know your name, what your major is, 
 and I also know a bit about you.
+
 - :100: You took a 3-unit course with me (e.g. Stat 133, 151A, 154) and received a score in the 
 top 25th percentile.
+
 - :books: You often came to my OH.
+
 - :envelope: We have met periodically (or stayed in touch) after you took a course with me.
+
 - :mortar_board: We have developed a good collegial relationship.
 
 
