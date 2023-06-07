@@ -21,7 +21,7 @@ and I also know a bit about you.
 - :100: You took a 3-unit course with me (e.g. Stat 133, 151A, 154) and received a score in the 
 top 25th percentile.
 
-- :book: You often came to my OH.
+- :book: You often came to my office hours.
 
 - :envelope: We have met periodically (or stayed in touch) after you took a course with me.
 
