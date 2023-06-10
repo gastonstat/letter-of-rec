@@ -143,7 +143,7 @@ How much---on average---are you going to pay (e.g. every week, every month, ever
 	+ at what interest rate?
 	+ what the payment schedule could look like? Run an amortization calculator to get a rough idea.
 - Will you have to apply for scholarships, grants, funds?
-- Will you consider more affordable schools/programs?
+- Will you consider more affordable schools and/or programs?
 
 
 
