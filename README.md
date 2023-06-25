@@ -120,7 +120,7 @@ You know the saying "_You plan, God laughs_." So, do you have a backup plan if:
 
 ## Do you know how much is going to cost you?
 	
-How much---on average---are you going to pay (e.g. every week, every month, every semester, every year) for:
+How much–on average–are you going to pay (e.g. every week, every month, every semester, every year) for:
 
 - education?
 - housing?
