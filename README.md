@@ -142,7 +142,7 @@ How much–on average–are you going to pay (e.g. every week, every month, ever
 	+ how much money should you borrow (in a financially prudent way)?
 	+ at what interest rate?
 	+ what the payment schedule could look like? Run an [amortization calculator](https://www.calculator.net/amortization-calculator.html) to get a rough idea.
-- Will you have to apply for scholarships, grants, funds?
+- Will you have to apply for scholarships, fellowships, grants, funds?
 - Will you consider more affordable schools and/or programs?
 
 
