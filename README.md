@@ -122,7 +122,8 @@ You know the saying "_You plan, God laughs_." So, do you have a backup plan if:
 	
 How much–on average–are you going to pay (e.g. every week, every month, every semester, every year) for:
 
-- education?
+- tuition?
+- other educational expenses?
 - housing?
 - utilities?
 - food?
