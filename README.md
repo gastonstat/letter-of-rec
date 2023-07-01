@@ -125,7 +125,7 @@ How much–on average–are you going to pay (e.g. every week, every month, ever
 - tuition?
 - other educational expenses?
 - housing?
-- utilities?
+- utilities (e.g. electricity, water, gas, cell phone, internet)?
 - food?
 - transportation?
 - healthcare?
