@@ -58,7 +58,7 @@ Is it because of:
 
 
 
-## Have you done Due Diligence regarding the program you are interested in?
+## Have you done Due Diligence regarding the program(s) you are interested in?
 
 - Have you carefully looked at the program you are interested in?
 	+ Is it a fairly new program or a well established program?
