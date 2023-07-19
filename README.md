@@ -8,7 +8,7 @@ and with my personal life outside academia.
 
 2) :question: __I don't know you enough__: I haven't known you long enough to get an 
 accurate idea of your qualifications and skills to endorse you. 
-Plus, I don't write generic letters of recommendation.
+Plus, I don't write generic letters of recommendation (and you should not ask for them either).
 
 <br>
 
