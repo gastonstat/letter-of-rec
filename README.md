@@ -140,7 +140,7 @@ How much–on average–are you going to pay (e.g. every week, every month, ever
 
 - Will your family cover all the expenses?
 - Will your family cover some of the expenses?
-        + Have they saved for this purpose?
+	+ Have they saved for this purpose?
 - Will you have to find a part-time (or full-time) job?
 - Will you have to get financial aid?
 - Will you have to get student loans?
