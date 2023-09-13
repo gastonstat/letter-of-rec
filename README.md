@@ -64,7 +64,9 @@ Is it because of:
 - Have you carefully looked at the program you are interested in?
 	+ Is it a fairly new program or a well established program?
 	+ Is there any data about the reputation of the program?
- 	+ Is it an in person program, or is it an online program?  
+ 	+ Is it an in person program
+  	+ Is it an online program?
+  	+ Is it a hybrid (mix of in-person & online) program?
 - What is the focus of the program?
 	+ Is it very practical?
 	+ Is it very theoretical?
