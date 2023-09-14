@@ -62,11 +62,12 @@ Is it because of:
 ## Have you done Due Diligence regarding the program(s) you are interested in?
 
 - Have you carefully looked at the program you are interested in?
-	+ Is it a fairly new program or a well established program?
+	+ Is it a fairly new program? Or is it a well established program?
 	+ Is there any data about the reputation of the program?
  	+ Is it an in person program
   	+ Is it an online program?
   	+ Is it a hybrid (mix of in-person & online) program?
+  	+ Is it a full-time program? Or is it a part-time program?
 - What is the focus of the program?
 	+ Is it very practical?
 	+ Is it very theoretical?
