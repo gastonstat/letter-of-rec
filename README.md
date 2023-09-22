@@ -68,6 +68,7 @@ Is it because of:
   	+ Is it an online program?
   	+ Is it a hybrid (mix of in-person & online) program?
   	+ Is it a full-time program? Or is it a part-time program?
+  	+ What is the length of the program (e.g. 1yr, 1.5yrs, 2yrs, >2yrs)?
 - What is the focus of the program?
 	+ Is it very practical?
 	+ Is it very theoretical?
