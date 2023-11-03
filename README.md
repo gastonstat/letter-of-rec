@@ -23,7 +23,7 @@ top 25th percentile.
 
 - :book: __You often came to my office hours__, where we talked not just about class materials but also about "life" in general.
 
-- :envelope: We have met periodically (or stayed in touch) after you took a course with me.
+- :envelope: __We have met periodically__ (or stayed in touch) after you took a course with me.
 
 - :mortar_board: We have developed a good collegial relationship.
 
