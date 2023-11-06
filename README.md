@@ -25,7 +25,7 @@ top 25th percentile.
 
 - :envelope: __We have met periodically__ (or stayed in touch) after you took a course with me.
 
-- :mortar_board: We have developed __a good collegial relationship__.
+- :mortar_board: __We have developed a good collegial relationship__.
 
 
 With that said, you can come to my OH, and if I'm not busy helping other
