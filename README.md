@@ -1,7 +1,6 @@
 # So you want me to write you a letter of recommendation ...
 
-You should know upfront that 99% of the time I decline writing letters of 
-recommendation. My 2 main reasons for doing this are:
+You should know upfront that 99% of the time I decline writing letters of recommendation. My 2 main reasons for doing this are:
 
 1) :hourglass: __I Don't Have Time__: I'm already too busy with my teaching responsibilities, 
 and with my personal life outside academia.
