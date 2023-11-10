@@ -17,7 +17,7 @@ of writing a __strong letter of recommendation__ I use the following criteria:
 - :calendar: __I have known you for at least one year__: I know your name, what your major/minor is, 
 and I also know a bit about you. The more I know about you, the better.
 
-- :100: __You took a course of at least 3-units with me__ (e.g. Stat 133, 151A, 154) and received a score in the 
+- :100: __You took a course of at least 3-units with me__ (e.g. Stat 133, 151A, 154) and received, ideally, a score in the 
 top 25th percentile.
 
 - :book: __You often came to my office hours__, where we talked not just about class materials but also about "life" in general.
