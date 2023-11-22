@@ -26,6 +26,8 @@ top 25th percentile.
 
 - :mortar_board: __We have developed a good collegial relationship__.
 
+- :date: __You need your letter in no less than a month__.
+
 
 With that said, you can come to my OH, and if I'm not busy helping other
 students, we can talk about your intentions, wishes and dreams for 
