@@ -26,7 +26,7 @@ top 25th percentile.
 
 - :mortar_board: __We have developed a good collegial relationship__.
 
-- :date: You should give me enough time to write your letter, __at least one month__.
+- :date: You should give me enough time to write your letter, requesting it __at least one month in advanced__.
 
 
 With that said, you can come to my OH, and if I'm not busy helping other
